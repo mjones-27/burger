@@ -1,16 +1,9 @@
 body {
   background-color: teal;
-  /* background-color: navy; */
-  /* background-color: #deab12; */
-}
-
-header {
-  text-align: center;
 }
 
 h1 {
   text-align: center;
-  color: red;
 }
 
 li {
